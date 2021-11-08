@@ -1,0 +1,16 @@
+step 1. start
+step 2. import scanner class
+step 3. enter the given values into an array arr
+step 4. initialize variables
+         boolean found
+         int findnum
+step 5. give user input to findnum
+step 6. start FOR loop
+           for(int n: arr)
+step 7. start if bock within for loop
+           if(n==num)
+            found=true;
+             break;
+step 8. print "num is found" if found=true
+        else
+        print "num not found"

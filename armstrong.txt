@@ -1,0 +1,12 @@
+step 1. Start
+step 2. Declare variables rem,sum,temp,num
+step 3. read the given num
+step 4. run while loop until num>0
+step 5. rem=num%10
+        num=num/10
+        sum= sum+rem*rem*rem
+step 6. If condition 
+         sum==temp
+         print"armstrong"
+       else
+         print"not armstrong"

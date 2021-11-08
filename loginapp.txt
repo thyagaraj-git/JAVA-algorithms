@@ -1,0 +1,14 @@
+step 1. Start
+step 2. initialize variables username,password,boolean,count
+step 3. read the user input values
+step 4. compare the input values
+step 5. start if block
+         if"inputvalues==actualvalues"
+          boolean=true
+         print"welcome"+username
+step 6. else
+         boolean=false
+          count=count+1
+
+step 7. if count>3
+        print "contact Admin"

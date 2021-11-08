@@ -1,0 +1,18 @@
+step 1. start
+step 2. read the values from user
+         principal
+         rate
+         time
+         time duration
+         interest rate
+
+step 3. give the simple and compound expression
+step 4. give the simple interest Expression
+         simple.interest=(principal*time*rate)/100
+
+step 5. print the output value
+
+step 6. give the compound interest expression
+        
+         compound.interest=(principal*math.pow(1+rate/100,time))-principal.
+step 7. print the output value
